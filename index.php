@@ -1,4 +1,5 @@
 TESTING LANG
+Hello Hello
 <?php require_once('connection/connection.php'); ?>
 
 <!DOCTYPE html>
